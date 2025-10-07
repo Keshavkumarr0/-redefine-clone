@@ -17,7 +17,7 @@ Inspired by a visually stunning Awwwards-winning website.
 
 ---
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 
 
 
