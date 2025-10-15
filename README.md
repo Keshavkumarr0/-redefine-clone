@@ -21,22 +21,6 @@ Inspired by a visually stunning Awwwards-winning website.
 
 
 
-redefine-clone/
-├── public/
-├── src/
-│ ├── assets/
-│ ├── components/
-│ ├── pages/
-│ ├── App.jsx
-│ └── main.jsx
-├── tailwind.config.js
-├── package.json
-└── README.md
-
-
-
-
----
 
 ## 🛠️ Getting Started
 
@@ -56,19 +40,12 @@ npm run dev
 
 
 
-⚙️ Build
-npm run build
 
- 
----
 
- 🧠 Inspiration
+
 
 This project draws creative inspiration from a highly-rated website on **Awwwards**, replicating its smooth transitions, layout, and visual feel.
 
 ---
-
- ✍️ Author
-
-Developed by **Keshav Kumar**, inspired by an Awwwards-winning website.
+ inspired by an Awwwards-winning website.
 
