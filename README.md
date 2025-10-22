@@ -34,5 +34,5 @@ npm run dev
 
 
 
- inspired by an Awwwards-winning website 🚀..
+ inspired by an Awwwards-winning website 
 
