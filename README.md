@@ -8,7 +8,7 @@ Inspired by a visually stunning Awwwards-winning website.
 
 ---
 
-## 🚀 Tech Stack
+ 🚀 Tech Stack
 
 - **React** – Front-end UI framework  
 - **Tailwind CSS** – Utility-first styling  
