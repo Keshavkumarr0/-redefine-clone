@@ -17,7 +17,7 @@ Inspired by a visually stunning Awwwards-winning website.
 
 
 
-## 🛠️ Getting Started
+ 🛠️ Getting Started
 
 
  Clone the repo
